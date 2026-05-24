@@ -135,7 +135,7 @@ def menu_principal():
      print("\n--- RESUMEN DEL DÍA ---")
      print(f"Ingreso Total Neto: {ingreso_neto}")
      print(f"Total de Penalidades Acumuladas: {total_penalidades}")
-     print("¡Gracias por usar el sistema!")
+     print("¡Gracias por usar el sistema Cine Full!")
     
     else:
      print("Opción no reconocida.")
